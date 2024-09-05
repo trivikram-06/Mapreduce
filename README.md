@@ -1,10 +1,5 @@
-# MovieLens MapReduce Project
-
-## Overview
-
 This project involves using Hadoop MapReduce to analyze the MovieLens 100K dataset, specifically to compute the average movie ratings. The project demonstrates the application of MapReduce for distributed data processing.
 
-## Process Overview
 
 - **Dataset Acquisition**:
   - **Source**: The dataset used is the MovieLens 100K dataset, which contains user ratings for movies.
@@ -40,6 +35,4 @@ This project involves using Hadoop MapReduce to analyze the MovieLens 100K datas
 
 - **`u.data`**: This file contains user ratings in the format of user ID, movie ID, rating, and timestamp. It is the primary data source used for calculating average movie ratings.
 
-## Conclusion
 
-This project showcases the use of Hadoop MapReduce for large-scale data processing, specifically in the context of analyzing movie ratings. By following this process, you can compute aggregate metrics like average ratings efficiently using distributed computing.
